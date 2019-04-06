@@ -1,0 +1,15 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "ia",
+  "main": "server.js",
+  "scripts": {
+    "test": "run dev",
+    "start": "node server.js"
+  },
+  "author": "victor",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
