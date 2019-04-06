@@ -1,8 +1,7 @@
 // lt --port 3000 --subdomain victor
 var http = require('http');
 var express = require('express');
-var mysql = require('mys
-ql');
+var mysql = require('mysql');
 
 var app = express()
 var PORT = process.env.PORT || 3000;
